@@ -26,7 +26,8 @@ Interactive filters (slicers) used:
 ---
 
 ## 📷 Dashboard Preview  
-<img width="1272" height="584" alt="Analysis Dashboard" src="https://github.com/user-attachments/assets/401ce3b0-0378-4e2d-9de1-1c60731a0f63" />
+<img width="1270" height="631" alt="Analysis Dashboard" src="https://github.com/user-attachments/assets/4b97e8ba-25e2-4ba3-9979-8e097b73a41f" />
+
 
 ---
 

@@ -39,7 +39,7 @@ Interactive filters (slicers) used:
 ---
 
 ## 📂 Files in Repository  
-- `Coffee_Sales_Dashboard.xlsx` → Main dashboard file  
+- `Coffee Data Worksheet.xlsx` → Main dashboard file  
 - `Data/` → Source tables (Order, Customer, Product)  
 - `Screenshots/` → Dashboard preview images  
 

@@ -39,9 +39,9 @@ Interactive filters (slicers) used:
 ---
 
 ## 📂 Files in Repository  
-- `Coffee Data Worksheet.xlsx` → Main dashboard file  
-- `Data/` → Source tables (Order, Customer, Product)  
-- `Screenshots/` → Dashboard preview images  
+- `Coffee Data Worksheet.xlsx` → Source tables (Order, Customer, Product)  
+- `Analysis Dashboard.png/` → Main Dashboard  
+- `Db-1.png/` → Shows Relation b/w tables  
 
 ---
 
